@@ -1,2 +1,2 @@
 Test conflit
-Ajout du conflit est ici
+Ajout du conflit
