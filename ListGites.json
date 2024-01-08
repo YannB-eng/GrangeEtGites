@@ -17,4 +17,13 @@
     "Equipment": "WIFI, TV,...",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
   }
+  {
+    "Title": "Gîte Suivant",
+    "Price": "100 €/nuit",
+    "ShortDescription": "1 gîte, 150 m2, 7 personnes, 4 chambres, 1 salle de bains",
+    "Location": "Saint Côme",
+    "LongDescription": "Longue description",
+    "Equipment": "WIFI, TV,...",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+  }
 ]
