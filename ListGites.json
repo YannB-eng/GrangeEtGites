@@ -1,7 +1,7 @@
 [
   {
     "Title": "Gîte Le Couderc",
-    "Price": "80 €/nuit",
+    "Price": 80,
     "ShortDescription": "1 gîte, 85 m2, 2 personnes, 1 chambre, 1 salle de bains",
     "Location": "COUBISOU",
     "LongDescription": "Envie de calme, de nature, de sports de plein air ? Envie de découvrir les richesses du patrimoine culturel et architectural du nord Aveyron ? Notre grange est située à proximité de la Vallée du Lot, du parc naturel régional de l'Aubrac et de nombreux villages classés parmi les plus beaux villages de France.Notre gîte est une ancienne grange entièrement rénovée avec une terrasse donnant sur une petite vallée sauvage. Randonnées possibles au départ du gîte.",
@@ -10,29 +10,29 @@
   },
   {
     "Title": "Gîte Le Nayrac",
-    "Price": "90 €/nuit",
+    "Price": 90 €/nuit,
     "ShortDescription": "1 gîte, 110 m2, 5 personnes, 3 chambres, 1 salle de bains",
     "Location": "LE NAYRAC",
     "LongDescription": "Longue description",
     "Equipment": "WIFI, TV,...",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg"
   },
   {
     "Title": "Gîte 3",
-    "Price": "100 €/nuit",
+    "Price": 100,
     "ShortDescription": "1 gîte, 150 m2, 7 personnes, 4 chambres, 1 salle de bains",
     "Location": "Saint Côme",
     "LongDescription": "Longue description",
     "Equipment": "WIFI, TV,...",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg"
   },
   {
     "Title": "Gîte 4",
-    "Price": "100 €/nuit",
+    "Price": 110,
     "ShortDescription": "1 gîte, 150 m2, 7 personnes, 4 chambres, 1 salle de bains",
     "Location": "Saint Côme",
     "LongDescription": "Longue description",
     "Equipment": "WIFI, TV,...",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/saimiri.jpg"
   }
 ]
