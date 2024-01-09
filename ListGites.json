@@ -16,23 +16,5 @@
     "LongDescription": "Longue description",
     "Equipment": "WIFI, TV,...",
     "Image": "https://raw.githubusercontent.com/YannB-eng/GrangeEtGites/master/Images/Gite2/image-principale.jpg"
-  },
-  {
-    "Title": "Gîte 3",
-    "Price": 100,
-    "ShortDescription": "1 gîte, 150 m2, 7 personnes, 4 chambres, 1 salle de bains",
-    "Location": "Saint Côme",
-    "LongDescription": "Longue description",
-    "Equipment": "WIFI, TV,...",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg"
-  },
-  {
-    "Title": "Gîte 4",
-    "Price": 110,
-    "ShortDescription": "1 gîte, 150 m2, 7 personnes, 4 chambres, 1 salle de bains",
-    "Location": "Saint Côme",
-    "LongDescription": "Longue description",
-    "Equipment": "WIFI, TV,...",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/saimiri.jpg"
   }
 ]
