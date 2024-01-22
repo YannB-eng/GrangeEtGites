@@ -26,10 +26,12 @@
     "WebSite": "http",
     "Email": "yann.berdague@gmail.com",
     "PhoneNumber": "06 82 54 53 31",
-    "Image": "https://raw.githubusercontent.com/YannB-eng/GrangeEtGites/master/Images/Gite1/image-principale.jpg",
+    "Image": "https://raw.githubusercontent.com/YannB-eng/GrangeEtGites/master/Images/Gite",
     "ImagePath": 1,
     "NumberImages" : 10,
-    "Price": 80
+    "Price": 80,
+    "Latitude": 1.957709,
+    "Longitude": 37.297204
   },
   {
     "TitleRental": "Gîte Le Nayrac",
@@ -58,9 +60,11 @@
     "WebSite": "http",
     "Email": "yann.berdague@gmail.com",
     "PhoneNumber": "06 82 54 53 31",
-    "Image": "https://raw.githubusercontent.com/YannB-eng/GrangeEtGites/master/Images/Gite2/image-principale.jpg",
+    "Image": "https://raw.githubusercontent.com/YannB-eng/GrangeEtGites/master/Images/Gite",
     "ImagePath": 2,
     "NumberImages": 8,
-    "Price": 90
+    "Price": 90,
+    "Latitude": 1.957709,
+    "Longitude": 37.297204
   }
 ]
