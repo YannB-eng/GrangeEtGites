@@ -31,8 +31,8 @@
     "ImagePath": 1,
     "NumberImages" : 10,
     "Price": 80,
-    "Latitude": 1.957709,
-    "Longitude": 37.297204
+    "Latitude": 44.58746724881871,
+    "Longitude": 2.7172644899625054
   },
   {
     "TitleRental": "Gîte Le Nayrac",
@@ -66,7 +66,7 @@
     "ImagePath": 2,
     "NumberImages": 8,
     "Price": 90,
-    "Latitude": 1.957709,
-    "Longitude": 37.297204
+    "Latitude": 44.612812611025184,
+    "Longitude": 2.661551969984246
   }
 ]
